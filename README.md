@@ -5,4 +5,4 @@ graphs that build up step by step. Open https://tvganesh.github.io/bluesky-stori
 
 Built with local models only (GLiNER, MiniLM, GLM-4.7-Flash and Gemma 4 31B via Ollama) and Neo4j. The pages show
 what was extracted from public posts and articles, not the posts themselves: account names, links to posts and
-quoted posts were removed, and posts deleted by their authors were dropped. Claims record what was said, not what is true.
+quoted posts were removed, private people and accounts are shown only as "a poster", and posts deleted by their authors were dropped. Claims record what was said, not what is true.
